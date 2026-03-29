@@ -80,7 +80,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=immu2526&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
 </p>
 
 ---
