@@ -19,13 +19,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://linkedin.com/in/md-imran-067455385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://YOUR-PROJECT-LINK-HERE" target="_blank">
+  <a href="https://twoe-commerce-website-mearn-stack.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/🔗 My Project-000000?style=for-the-badge&logoColor=white" alt="Project"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
+  <a href="https://github.com/immu2526" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
