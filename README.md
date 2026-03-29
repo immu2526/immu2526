@@ -75,21 +75,24 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💡 Skills & Proficiency
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
+| Skill | Level | Progress |
+|-------|-------|----------|
+| HTML/CSS | Comfortable | ███████░░░ 75% |
+| JavaScript | Learning | ██████░░░░ 65% |
+| Bootstrap | Learning | ██████░░░░ 62% |
+| Tailwind CSS | Learning | ██████░░░░ 60% |
+| React | Learning | ██████░░░░ 60% |
+| Node.js | Learning | █████░░░░░ 58% |
+| Express | Learning | █████░░░░░ 55% |
+| MongoDB | Learning | █████░░░░░ 55% |
+| MySQL | Learning | █████░░░░░ 52% |
+| C/C++ | Familiar | ████░░░░░░ 48% |
+| Python | Familiar | ████░░░░░░ 45% |
+| Java | Familiar | ████░░░░░░ 42% |
+| Redux | Familiar | ████░░░░░░ 40% |
+ 
 
 ### 🏆 GitHub Trophies
 
