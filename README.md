@@ -74,24 +74,7 @@
 </p>
 
 ---
-
-### 💡 Skills & Proficiency
-
-| Skill | Level | Progress |
-|-------|-------|----------|
-| HTML/CSS | Comfortable | ███████░░░ 75% |
-| JavaScript | Learning | ██████░░░░ 65% |
-| Bootstrap | Learning | ██████░░░░ 62% |
-| Tailwind CSS | Learning | ██████░░░░ 60% |
-| React | Learning | ██████░░░░ 60% |
-| Node.js | Learning | █████░░░░░ 58% |
-| Express | Learning | █████░░░░░ 55% |
-| MongoDB | Learning | █████░░░░░ 55% |
-| MySQL | Learning | █████░░░░░ 52% |
-| C/C++ | Familiar | ████░░░░░░ 48% |
-| Python | Familiar | ████░░░░░░ 45% |
-| Java | Familiar | ████░░░░░░ 42% |
-| Redux | Familiar | ████░░░░░░ 40% |
+[![roadmap.sh](https://roadmap.sh/card/wide/67f8c1234abcd?variant=dark)](https://roadmap.sh)
  
 
 ### 🏆 GitHub Trophies
